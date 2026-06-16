@@ -1,6 +1,6 @@
 # MLOps Lab
 
-Reproducible ML experimentation workspace — local development, containerized runtimes, and versioned artifacts.
+Reproducible ML experimentation workspace local development, containerized runtimes, and versioned artifacts.
 
 ## Stack
 
