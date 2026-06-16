@@ -1,0 +1,35 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Data & artifacts
+data/raw/
+data/processed/
+data/interim/
+models/
+artifacts/
+*.parquet
+*.pkl
+*.joblib
+
+# Environment
+.env
+.env.local
+
+# IDE & OS
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Jupyter
+profile_default/
