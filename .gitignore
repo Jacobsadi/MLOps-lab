@@ -14,7 +14,6 @@ build/
 data/raw/
 data/processed/
 data/interim/
-models/
 artifacts/
 *.parquet
 *.pkl

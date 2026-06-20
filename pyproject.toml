@@ -12,6 +12,11 @@ dependencies = [
     "seaborn>=0.13",
     "jupyterlab>=4.2",
     "ipykernel>=6.29",
+    "notebook>=7.5.7",
+    "mlflow>=3.14.0",
+    "xgboost>=2.0",
+    "hyperopt>=0.2",
+    "setuptools>=69,<82",
 ]
 
 [dependency-groups]
